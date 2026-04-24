@@ -1,6 +1,6 @@
 ## ¡Hola, soy Cristian Yurtz! 👋
 
-Cibersecurity Specialist | Offensive Security Specialist | Red Teaming  
+Cybersecurity Specialist | Offensive Security Specialist | Red Teaming  
 Infraestructuras hibridas • Active Directory • Web • APIs • Cloud
 
 Me especializo en evaluar entornos reales, desde el acceso inicial hasta el control de la infraestructura. Trabajo principalmente sobre infraestructuras hibridas, Active Directory, aplicaciones WEB y APIs, enfocándome en cómo un atacante puede encadenar vulnerabilidades para escalar procesos.
