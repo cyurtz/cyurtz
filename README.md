@@ -1,11 +1,11 @@
 ## ¡Hola, soy Cristian Yurtz! 👋
 
 Offensive Security Specialist | Red Teaming  
-Active Directory • Web • APIs • Cloud
+Infraestructuras hibridas • Active Directory • Web • APIs • Cloud
 
-Me especializo en evaluar y comprometer entornos reales, desde el acceso inicial hasta el control de la infraestructura. Trabajo principalmente sobre Active Directory, aplicaciones web y APIs, enfocándome en cómo un atacante puede encadenar vulnerabilidades para escalar impacto.
+Me especializo en evaluar entornos reales, desde el acceso inicial hasta el control de la infraestructura. Trabajo principalmente sobre infraestructuras hibridas, Active Directory, aplicaciones WEB y APIs, enfocándome en cómo un atacante puede encadenar vulnerabilidades para escalar procesos.
 
-Cuento con más de 7 años de experiencia en ciberseguridad en entornos corporativos y financieros.
+Cuento con más de 8 años de experiencia en ciberseguridad en entornos corporativos y financieros.
 
 ---
 
@@ -92,10 +92,10 @@ He trabajado en:
 
 ## 📫 Contacto
 
-📧 cyurtz@hotmail.com  
-🔗 LinkedIn  
-📘 GitBook  
+📧 Correo: cyurtz@hotmail.com  
+🔗 LinkedIn: https://linkedin.com/in/cyurtz  
+📘 Gitbook: https://redops.gitbook.io/redops/
 
 ---
 
-⚡ *"La seguridad real no está en encontrar fallos, sino en entender cómo explotarlos en cadena."*
+⚡ *"La seguridad real no está en encontrar fallos, sino en entender cómo explotarlos."*
