@@ -95,9 +95,6 @@ He trabajado en:
 📧 Correo: cyurtz@hotmail.com  
 🔗 LinkedIn: https://linkedin.com/in/cyurtz  
 📘 Gitbook: https://redops.gitbook.io/redops/
-
-💻 Mi negocio: https://nucleoseguro.com
-
 ---
 
 ⚡ *"La seguridad real no está en encontrar fallos, sino en entender cómo explotarlos."*
